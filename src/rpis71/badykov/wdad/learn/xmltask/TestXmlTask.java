@@ -19,7 +19,7 @@ public class TestXmlTask {
         DocumentBuilder builder = factory.newDocumentBuilder();
         Document document;
         document = builder.parse("ibrary.xml");
-        Book obj = new Book();-*/
+        Book obj = new Book();
        
         System.out.println(parseDocument().toString());
     }
