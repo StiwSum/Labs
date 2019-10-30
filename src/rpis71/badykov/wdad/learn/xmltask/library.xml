@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE library SYSTEM ".\library.dtd">
+
+<library>
+    <reader>
+        <book>
+            <author>
+                <firstname>Б.</firstname>
+                <secondname>rget</secondname>
+            </author>
+            <name>
+                Step Wolf
+            </name>
+            <printyear>1926</printyear>
+            <genre value="story"/>  
+        </book>
+        
+        <takedate day="01" month="10" year="2019"/>
+    </reader>
+    
+    <reader>
+        <book>
+            <author>
+                <firstname>Fridrich</firstname>
+                <secondname>Nizche</secondname>
+            </author>
+            
+            <name>Antichrist</name>
+            <printyear>1885</printyear>
+            <genre value="article"/>  
+        </book>
+        
+        <takedate day="02" month="10" year="2019"/>\
+    </reader>
+    
+    <reader>
+        <book>
+            <author>
+                <firstname>Karl</firstname>
+                <secondname>Marks</secondname>
+            </author>
+            
+            <name>Capital</name>
+            <printyear>1880</printyear>
+            <genre value="opus"/>  
+        </book>
+        
+        <takedate day="03" month="10" year="2019"/>\
+    </reader>
+    
+    <reader>
+        <book>
+            <author>
+                <firstname>Name</firstname>
+                <secondname>Tolkien</secondname>
+            </author>
+            
+            <name>Hobbit</name>
+            <printyear>1926</printyear>
+            <genre value="story"/>  
+        </book>
+        
+        <takedate day="04" month="10" year="2019"/>\
+    </reader>
+    
+    <reader>
+        <book>
+            <author>
+                <firstname>Haruki</firstname>
+                <secondname>Murakami</secondname>
+            </author>
+            
+            <name>hunt of sheep</name>
+            <printyear>1980</printyear>
+            <genre value="story"/>  
+        </book>
+        
+        <book>
+            <author>
+                <firstname>Name</firstname>
+                <secondname>Tolkien</secondname>
+            </author>
+            
+            <name>Hobbit</name>
+            <printyear>1926</printyear>
+            <genre value="story"/>  
+        </book>
+        
+        <takedate day="05" month="10" year="2019"/>
+    </reader>
+    
+</library>
